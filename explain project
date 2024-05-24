@@ -1,0 +1,19 @@
+The Taiko project is a layer-2 scaling solution for the Ethereum blockchain, utilizing Zero-Knowledge Ethereum Virtual Machine (zkEVM) technology. This means it leverages zero-knowledge proofs to batch and process transactions off-chain, then submits the compressed data back to Ethereum, enhancing scalability without compromising security or decentralization​ (Home - Taiko)​​ (CRYPTO fundraising)​.
+
+Key Features of Taiko:
+Ethereum Equivalence (Type 1 zkEVM):
+
+Taiko aims to be fully compatible with Ethereum, allowing developers to use the same tools, smart contracts, and infrastructure without needing recompilation or re-auditing. This seamless compatibility makes it easier for developers to transition to and build on Taiko​ (Home - Taiko)​​ (The Cryptonomist)​.
+Security and Decentralization:
+
+The project uses a contestable rollup architecture, where Ethereum validators sequence transactions. This method inherits Ethereum's security and decentralization properties, ensuring that no additional trust assumptions are needed beyond those of Ethereum itself​ (Home - Taiko)​.
+Funding and Development:
+
+Taiko has raised $37 million through multiple funding rounds, including a recent $15 million Series A. These funds are directed towards completing the network's development, with the mainnet launch expected soon​ (The Cryptonomist)​​ (CRYPTO fundraising)​.
+Community and Open Source:
+
+The project is community-driven and open-source, meaning anyone can use, modify, and contribute to the source code. This aligns with Taiko’s mission to create a scalable and decentralized Ethereum-compatible network​ (Home - Taiko)​​ (CryptoTotem)​.
+Incentives and Airdrop:
+
+To encourage early adoption and participation, Taiko plans to distribute its native tokens through an airdrop to early users. This strategy is intended to attract users and developers to the network by providing incentives and increasing engagement​ (The Cryptonomist)​​ (CryptoTotem)​.
+In summary, Taiko is designed to enhance Ethereum's scalability while maintaining compatibility and security. It achieves this through a zkEVM rollup solution that processes transactions off-chain, thus increasing efficiency. The project is backed by significant funding and a strong community focus, making it a promising development in the Ethereum ecosystem.
